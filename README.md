@@ -5,6 +5,7 @@
 </div>
 
 ### 🚀 About Me
+* 🏫 Majoring in AI Computer Engineering at KGU
 * 🔭 Currently navigating the vast universe of **AI Computer Engineering**.
 * 🛰️ Passionate about exploring latent spaces and optimizing deep learning models.
 * 🌠 Bridging the gap between intelligent AI algorithms and scalable backend architectures.
@@ -23,10 +24,3 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 ---
-
-### 📈 GitHub Constellation
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-</div>
