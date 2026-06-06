@@ -1,93 +1,32 @@
-<!-- Terminal-style GitHub Profile README for liquidtii -->
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    liquidtii@github ~ $                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-```bash
-$ whoami
-```
-
-> **Backend & AI Engineer** — 서버와 모델 사이 어딘가에 존재하는 개발자
-
-```python
-class Developer:
-    def __init__(self):
-        self.name       = "liquidtii"
-        self.focus      = ["Backend Engineering", "AI / ML"]
-        self.languages  = ["Python", "SQL", "Bash", "...]
-        self.frameworks = ["FastAPI", "PyTorch", "LangChain", "..."]
-        self.currently  = "Building something that actually works"
-        self.motto      = "Make it run. Make it right. Make it fast."
-
-    def contact(self):
-        return "GitHub issues, or catch me in the void 🌑"
-```
-
----
-
-```bash
-$ cat tech_stack.txt
-```
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-14161A?style=flat-square&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-14161A?style=flat-square&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14161A?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-14161A?style=flat-square&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-14161A?style=flat-square&logo=linux&logoColor=FCC624)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-14161A?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-14161A?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-14161A?style=flat-square&logo=chainlink&logoColor=375BD2)
-![OpenAI](https://img.shields.io/badge/OpenAI-14161A?style=flat-square&logo=openai&logoColor=white)
-
----
-
-```bash
-$ gh stats --user liquidtii
-```
+# 🌌 Hello, I'm liquidtii
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liquidtii&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liquidtii&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=8B949E)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=liquidtii&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Exploring%20the%20AI%20Cosmos&fontSize=50&fontAlignY=38&desc=AI%20Computer%20Engineering&descAlignY=55&descAlign=50&animation=twinkling" />
 </div>
 
----
-
-```bash
-$ ps aux | grep liquidtii
-```
-
-```
-liquidtii   🔭  currently exploring  →  LLM fine-tuning & RAG pipelines
-liquidtii   🛠️  building             →  backend services that don't fall over
-liquidtii   📖  learning             →  ML Ops, distributed systems
-liquidtii   💬  ask me about        →  Python, APIs, making AI actually useful
-```
+### 🚀 About Me
+* 🔭 Currently navigating the vast universe of **AI Computer Engineering**.
+* 🛰️ Passionate about exploring latent spaces and optimizing deep learning models.
+* 🌠 Bridging the gap between intelligent AI algorithms and scalable backend architectures.
 
 ---
 
-```bash
-$ echo "Thanks for visiting. Now go build something." && exit
-```
+### 🛠️ Tech Arsenal
 
-<!-- Snake animation (add GitHub Action for this) -->
-<!-- https://github.com/Platane/snk -->
-![snake gif](https://github.com/liquidtii/liquidtii/blob/output/github-contribution-grid-snake-dark.svg)
+#### 🪐 Backend & Infrastructure
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+#### 🧠 Artificial Intelligence
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Hugging%20Face-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white">
+
+#### ☄️ Additional Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 ---
+
+### 📈 GitHub Constellation
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=liquidtii&style=flat-square&color=58A6FF&label=profile+views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
 </div>
