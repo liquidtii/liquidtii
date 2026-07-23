@@ -9,7 +9,7 @@
 * 🔭 Currently navigating the vast universe of **AI Computer Engineering**.
 * 🛰️ Passionate about exploring latent spaces and optimizing deep learning models.
 * 🌠 Bridging the gap between intelligent AI algorithms and scalable backend architectures.
-
+* jiminin26@gmail.com
 ---
 
 ### 🛠️ Tech Arsenal
